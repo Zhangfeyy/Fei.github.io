@@ -1,11 +1,32 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello:)
+I am currently doing my master at Uni Wien in Communication Science. Influenced by my bachelor background in 'Network and New Media', I am interested on the intersection of technology and arts.
+* Which research methods I am studying/utilizing:
+-Social Network Analysis
+-Correlation Analysis
+-Survey Research
+
+
+
+
+
+
+* In 2023, I graduated from [Sichuan Univeristy](https://en.scu.edu.cn/) in major 'Network and New Media'. 
+* Then I travelled around Asia as a backpacker
+* In the first half of 2024, I was doing my internship in Volkswagen
+* In the Octoer of 2024, I came to Vienna!
+* Every step of my life looks like a drunkward's walk, random and causual. However, I am aware of all choices I have made, with the belief that I can create something bridging arts and technology, as welll linking every moment of my life.
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
