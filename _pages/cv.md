@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Communication Science, University of Vienna, 2024
+* B.A. in Network and New Media, Sichuan University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Spring 2024: CHRO Assistent Intern 
+  * Volkswagen China
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -34,19 +33,22 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Survey 
+* Programming
+  * Python
+  * C
+  * JavaSript, HTML, PHP
+* Softwares
+  * SPSS
+  * Ucinet
+  * Tableau
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+    
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
